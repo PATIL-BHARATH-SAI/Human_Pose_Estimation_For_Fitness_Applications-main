@@ -7,11 +7,3 @@ A computer vision problem called "human pose estimation" entails locating the lo
 ##Advantage of using H5 Model
 As a result of their capacity to extract hierarchical features from huge datasets, H5 models—often linked to the Hierarchical Hybrid Deep Learning framework—offer a solid foundation for a variety of computer vision applications. On the other hand, transfer learning involves using pre-trained models on a related task to expedite training and enhance performance on a particular target task.
 
-1. [Results](#results)
-3. [Features](#features)
-4. [Related Work](#related-work)
-5. [Installation](#installation)
-6. [Quick Start Overview](#quick-start-overview)
-7. [Send Us Feedback!](#send-us-feedback)
-8. [Citation](#citation)
-9. [License](#license)
